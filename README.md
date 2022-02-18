@@ -63,3 +63,32 @@ This method finds the cumulative distribution function of the previous method an
 
 - **findDefective( )** <br>
 This method which takes the data from ```Book2.csv``` file and gets randomly 3 parts from this file until all 3 parts are defective and all defective parts have part id greater than 10. Then, finds both the probability mass function and cumulative distribution function and plots the histogram for PMF and graph for CDF. Finally, it finds the percentiles and percentile ranks for CDF.
+
+
+<br>
+
+## Screenshots
+Below screeshot samples of PMF and CDF plots examples:
+
+
+<br>
+<p>
+   <em>PMF Example</em>
+   <br><br>
+   <img style="max-width: 100%;height: 450px;" src="/screenshots/pmf.png" alt>
+</p>
+
+
+
+<br>
+
+<p>
+   <em>CDF Example</em>
+   <br><br>
+   <img style="max-width: 100%;height: 450px;" src="/screenshots/cdf.png" alt>
+</p>
+  
+  
+  
+  
+  
