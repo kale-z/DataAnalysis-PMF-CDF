@@ -22,7 +22,7 @@ This project is divided into two major parts according to the two different data
 At the bottom of the Python file, there are the calling commands sorted chronologically regarding each functon respectively, but they are commented. You may run whichever function/method you would like to witness by uncommenting them.
 
 ### Part [ 1 ]
-In this part, I used the data in the file ```wine.txt``` which is monthly sales of Australian wine by category, in thousands of litres, from January 1980 until July 1995. The categories are fortified white, dry white, sweet white, red, rose, and sparkling ecnoded by ```fortw```, ```dryw```, ```sweetw```, ```red```, ```rose```, ```spark``` respectively.
+In this part, I used the data in the file ```wine.txt``` which is monthly sales of Australian wine by category, in thousands of litres, from January 1980 until July 1995. The categories are fortified white, dry white, sweet white, red, rose, and sparkling ecnoded by ```fortw```, ```dryw```, ```sweetw```, ```red```, ```rose```, ```spark``` respectively. The overall goal is simply to examine sales of Australian wine over 15 years periof from 1980-1995 and distribution of variables in this data.
 
 <br>
 
