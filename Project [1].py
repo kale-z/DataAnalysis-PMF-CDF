@@ -2,7 +2,7 @@
 from random import *
 import thinkstats2
 import thinkplot
-import pandas
+import pandas 
 
 
 class Part1(object):
