@@ -1,7 +1,3 @@
-# Khaled AlSaleh 212402570
-# Anas Abdrabbuh 212462285
-
-
 # Importing the needed modules to use its functions:
 from random import *
 import thinkstats2
