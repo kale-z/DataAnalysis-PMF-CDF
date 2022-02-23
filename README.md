@@ -47,7 +47,7 @@ This method takes a category as an argument and find variance and standard devia
 
 ##
 ### Part [ 2 ]
-In this part, I used the data in the file ```Book2.csv```. The file contains 25 parts and 10 of them are non-defective. The overall goal here is simply to understand Probability Mass Function (PMF) and Cumulative Distribution Function (CDF).
+In this part, I used the data in the file ```Book2.csv```. The file contains 25 parts and 10 of them are non-defective. The overall goal here is simply to understand **Probability Mass Function** (PMF) and **Cumulative Distribution Function** (CDF).
 
 <br>
 
