@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Project [ 1 ]
+# Data Analysis - PMF & CDF
 In this project, I have 2 types of data (```wine.txt``` and ```Book2.csv```). I have explored each one of them and applied statistical analysis as it's explained in below sections. The goal of this project is to understand the given data and learn how to utilize it for data analysis.
 
 
